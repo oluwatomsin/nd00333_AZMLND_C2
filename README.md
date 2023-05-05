@@ -1,5 +1,5 @@
 # Project Overview
-In this project, we have used Bank Marketing dataset to train a machine learning model using AutoML feature of Azure Machine Learning Studio and later configure it for production and deploy it using Azure Container Instance and later consume it using REST endpoints. We will also create, publish and consume a pipeline using a bike sharing dataset. We will also create a published pipeline which can be used to run the pipeline using its REST endpoint
+In this project, I have used Bank Marketing dataset to train a machine learning model using AutoML feature of Azure Machine Learning Studio and later configure it for production and deploy it using Azure Container Instance and later consume it using REST endpoints. I also created, published and consumed a pipeline using a bike sharing dataset. I also created a published pipeline which can be used to run the pipeline using its REST endpoint
 
 # MODEL ARCHITECHTURE
 ![GitHub Logo](ProjectOverview.png)
